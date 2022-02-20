@@ -1,4 +1,12 @@
 h1{
-    font-size: 10rem;
-    color: blueviolet;
+    font-size: 5rem;
+    color: rgb(255, 104, 205);
+    text-align: center;
+    margin: 5rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
 }
